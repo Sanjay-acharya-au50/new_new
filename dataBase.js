@@ -20,7 +20,7 @@ const mongoSchema = new mongoose.Schema({
 })
 
 
-app.listen(3000, ()=>{
+app.listen(3001, ()=>{
     console.log("db server : 3000");
 })
 
